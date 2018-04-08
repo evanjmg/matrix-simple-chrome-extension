@@ -1,15 +1,22 @@
 body {
-  background-color: black !important;
+  background: url('https://github.com/evanjmg/matrix-simple-chrome-extension/raw/master/giphy.gif') !important;
   background-size: cover !important;
   color: white !important;
-  font-family: Courier;
+  font-family: Courier !important;
 }
 .UnderlineNav,
 .pagehead {
   background-color: darkgreen !important;
 }
-a {
+.Counter {
+  color: lightgreen !important;
+}
+p,
+a,
+p.text-gray {
   color: white !important;
+}
+a {
   text-decoration: underline !important;
 }
 img.avatar {
