@@ -1,0 +1,17 @@
+body {
+  background-color: black !important;
+  background-size: cover !important;
+  color: white !important;
+  font-family: Courier;
+}
+.UnderlineNav,
+.pagehead {
+  background-color: darkgreen !important;
+}
+a {
+  color: white !important;
+  text-decoration: underline !important;
+}
+img.avatar {
+  filter: sepia(100%) hue-rotate(60deg) !important;
+}
